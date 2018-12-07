@@ -1,0 +1,15 @@
+html {
+  font-family: "PT Sans", sans-serif;
+}
+
+.nav a {
+  display: block;
+  padding: 0;
+  text-decoration: none;
+  color: #000;
+}
+
+header {
+  background-color: #fff;
+  position: relative;
+}
