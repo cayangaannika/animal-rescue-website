@@ -6,10 +6,140 @@ html {
   display: block;
   padding: 0;
   text-decoration: none;
-  color: #000;
+  color: ##FFFF00;
 }
 
 header {
   background-color: #fff;
   position: relative;
+}
+
+.nav a:hover {
+  background-color: #333;
+  color: black;
+}
+
+.banner-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #fff;
+  width: 100%;
+}
+
+section {
+  background-color: #0b4048;
+  color: #fff;
+  margin: 0;
+}
+
+.b1 {
+  background-color: #f5f0f0;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.span4 {
+  width: 370px;
+  float: left;
+  min-height: 1px;
+}
+
+.plan-regular {
+  background-color: #fff;
+}
+
+.price-plan {
+  border-radius: 4px;
+  padding: 40px 20px;
+  box-shadow: 2px 2px;
+}
+
+.price-plan .plan-title {
+  margin: 0;
+}
+
+.text-light {
+  color: black;
+}
+
+.price-plan .price {
+  background: none repeat scroll;
+  border-radius: 120px;
+  width: 120px;
+  height: 120px;
+  margin: 0;
+}
+
+.price-plan .amount-container {
+  padding: 0;
+}
+
+.price-plan .currency {
+  left: -7px;
+  position: relative;
+  top: -8px;
+}
+
+.price-plan .amount {
+  margin: 0;
+}
+
+.price-plan .period {
+  margin: 0;
+}
+
+.text-shadow-dark {
+  text-shadow: 1px 1px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.price-plan .plan-features {
+  list-style: none outside none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  border-radius: 2px;
+  box-shadow: none;
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  background: #000;
+}
+
+.plan-gold {
+  background-color: #fff;
+}
+
+.plan-advanced {
+  background-color: #fff;
+}
+
+.sign-in {
+  background-color: black;
+  color: #fff;
+}
+
+.btn-signin {
+  background-color: green;
+  color: #fff;
+}
+
+.sign-up-btn {
+  background-color: #FFBD00;
+  color: #fff;
+}
+
+.grid-nav {
+  background-color: #0b4048;
+  color: #fff;
 }
