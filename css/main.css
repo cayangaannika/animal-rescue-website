@@ -28,13 +28,17 @@ header {
 }
 
 section {
-  background-color: #0b4048;
+  background-color: #FFBD00;
   color: #fff;
   margin: 0;
 }
 
 .b1 {
   background-color: #f5f0f0;
+}
+
+.s1 {
+  color: #000;
 }
 
 body {
@@ -136,7 +140,7 @@ a:hover {
 
 .sign-up-btn {
   background-color: #FFBD00;
-  color: #fff;
+  color: #000;
 }
 
 .grid-nav {
