@@ -6,17 +6,17 @@ html {
   display: block;
   padding: 0;
   text-decoration: none;
-  color: ##FFFF00;
+  color: #ff0;
 }
 
 header {
-  background-color: #FFBD00;
+  background-color: #ffbd00;
   position: relative;
 }
 
 .nav a:hover {
   background-color: #333;
-  color: #FFBD00;
+  color: #ffbd00;
 }
 
 .banner-content {
@@ -28,7 +28,7 @@ header {
 }
 
 section {
-  background-color: #FFBD00;
+  background-color: #ffbd00;
   color: #fff;
   margin: 0;
 }
@@ -38,11 +38,11 @@ section {
 }
 
 main {
-  background-color: #FFF1C9;
+  background-color: #fff1c9;
 }
 
 .s1 {
-  color: #FFF1C9;
+  color: #fff1c9;
 }
 
 body {
@@ -99,7 +99,7 @@ a:hover {
 }
 
 .sign-up-btn {
-  background-color: #FFBD00;
+  background-color: #ffbd00;
   color: #000;
 }
 
