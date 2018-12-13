@@ -55,10 +55,6 @@ body {
   min-height: 1px;
 }
 
-.plan-regular {
-  background-color: #fff;
-}
-
 .price-plan {
   border-radius: 4px;
   padding: 40px 20px;
@@ -105,7 +101,7 @@ a:hover {
 
 .grid-nav {
   background-color: #0b4048;
-  color: #fff;
+  color: #000;
 }
 
 p {
@@ -135,4 +131,8 @@ strong {
 .section-dark {
   background-color: #000308;
   color: #fff;
+}
+
+fieldset {
+  color: #000;
 }
