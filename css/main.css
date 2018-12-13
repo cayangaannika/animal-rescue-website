@@ -115,3 +115,10 @@ p {
 strong {
   color: #000;
 }
+
+.list-group-inline {
+  padding-top: 0;
+  margin: 0;
+  padding-bottom: 0;
+  display: block;
+}
